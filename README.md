@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kauã Ezequiel
+# 👋 Hey there, I'm Kauã Ezequiel!
 
 🎓 Computer Science student at UFRGS  
 📊 Data Intern at Tecnova  
